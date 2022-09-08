@@ -2,4 +2,4 @@
 
 PrimerRepositorio
 
-i love :computer: :guitar: :tv: :video_game:
+i love :computer: :guitar: :video_game: :soccer:
